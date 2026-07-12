@@ -27,6 +27,17 @@ The dataset contains retail transaction records from 2016, including:
 - Quantity sold
 - Sales amount
 
+## Skills Demonstrated
+
+- Data cleaning
+- Data transformation
+- Exploratory data analysis
+- KPI development
+- Dashboard design
+- Business analysis
+- Data visualization
+- Retail sales analysis
+
 ## Tools and Techniques
 
 - Microsoft Excel
@@ -99,17 +110,6 @@ A limited number of products and categories contributed a significant portion of
 Weekday, weekend, and day-of-week analysis can help identify periods of stronger customer activity.
 
 **Recommendation:** Align staffing levels and replenishment schedules with the highest-performing days.
-
-## Skills Demonstrated
-
-- Data cleaning
-- Data transformation
-- Exploratory data analysis
-- KPI development
-- Dashboard design
-- Business analysis
-- Data visualization
-- Retail sales analysis
 
 ## Project File
 
