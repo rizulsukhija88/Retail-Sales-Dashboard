@@ -116,6 +116,3 @@ Weekday, weekend, and day-of-week analysis can help identify periods of stronger
 The complete interactive Excel workbook is available in this repository:
 
 `Retail Sales Dashboard.xlsx`
-The complete interactive Excel workbook is available in this repository:
-
-`Retail Sales Dashboard.xlsx`
